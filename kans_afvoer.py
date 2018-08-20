@@ -10,4 +10,6 @@ import numpy as np
 #some basic operations
 a = np.ones([3,1])
 a = a + 1
+b = np.array([1,2,3])
 print(a)
+print(a+b)
